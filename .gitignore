@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+nutrition_cache.json
+.env
